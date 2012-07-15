@@ -28,10 +28,9 @@
 	if ([UIScreen mainScreen].brightness >= 0.5) {
 		[[UIScreen mainScreen]setBrightness:0.0];
 	} else {
-		
 		[[UIScreen mainScreen]setBrightness:1.0];
 	}
-	//// note
+	//// note slkjlaksjdfkla
 	
 	exit(0);
 
